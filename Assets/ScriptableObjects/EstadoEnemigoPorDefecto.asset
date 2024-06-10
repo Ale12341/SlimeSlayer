@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 958d3b8c5f3870c47b4eb4fa767d422b, type: 3}
+  m_Name: EstadoEnemigoPorDefecto
+  m_EditorClassIdentifier: 
+  accionesEnemigo:
+  - {fileID: 0}
+  transiciones:
+  - decisiones: {fileID: 0}
+    enemigoEstadoVerdadero: {fileID: 0}
+    enemigoEstadoFalso: {fileID: 0}

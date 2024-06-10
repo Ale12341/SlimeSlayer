@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d103095b23588f4ab7061795a1aab94, type: 3}
+  m_Name: NPC5
+  m_EditorClassIdentifier: 
+  nombre: Leona
+  icono: {fileID: 0}
+  tieneInteraccionImportante: 0
+  interaccionImportante: 0
+  principioConversacion: " \xBFDeseas saber m\xE1s sobre estas tierras?"
+  finalConversacion: "Se rumorea que una fuente de poder yace escondida entre sus
+    \xE1rboles, alimentando a los Slimes con su malicia."
+  conversacion:
+  - conversacion: " He recorrido muchos rincones de este mundo: desde la ciudad nevada
+      hasta el ardiente desierto. Incluso me aventur\xE9 en el Bosque."
+  - conversacion: "aunque es un lugar al que no volver\xEDa jam\xE1s. Cuentan que
+      en sus profundidades se ocultan secretos que desaf\xEDan la imaginaci\xF3n."

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2fad5de946daca41bbef2649240a33e, type: 3}
+  m_Name: ArmaMartillazo
+  m_EditorClassIdentifier: 
+  armaIcono: {fileID: -1172347123, guid: fceafe88d022a4d48b278e1523a57ce3, type: 3}
+  tipoArma: 0
+  "da\xF1o": 10
+  mana: 0
+  critico: 7

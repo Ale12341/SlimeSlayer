@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 958d3b8c5f3870c47b4eb4fa767d422b, type: 3}
+  m_Name: EnemigoEstadoSeguirCamino
+  m_EditorClassIdentifier: 
+  transiciones:
+  - decisiones: {fileID: 11400000, guid: c606f6b67c690964cb0de377a62661d9, type: 2}
+    enemigoEstadoVerdadero: {fileID: 11400000, guid: 1c3b1c4491935e9448230f80399f86c3, type: 2}
+    enemigoEstadoFalso: {fileID: 11400000, guid: 32eccc471c1ae6845ac44c2fafb05a70, type: 2}
+  accionesEnemigo:
+  - {fileID: 11400000, guid: bb2a803aa459c074c9a72af2271bcd63, type: 2}

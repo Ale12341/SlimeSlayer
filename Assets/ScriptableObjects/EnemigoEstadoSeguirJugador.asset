@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 958d3b8c5f3870c47b4eb4fa767d422b, type: 3}
+  m_Name: EnemigoEstadoSeguirJugador
+  m_EditorClassIdentifier: 
+  transiciones:
+  - decisiones: {fileID: 11400000, guid: c606f6b67c690964cb0de377a62661d9, type: 2}
+    enemigoEstadoVerdadero: {fileID: 11400000, guid: 32eccc471c1ae6845ac44c2fafb05a70, type: 2}
+    enemigoEstadoFalso: {fileID: 11400000, guid: 259a7c649fbc47549b45f3ab72d1441d, type: 2}
+  - decisiones: {fileID: 11400000, guid: 1f20bec4d30234c479e5f4922b95d869, type: 2}
+    enemigoEstadoVerdadero: {fileID: 11400000, guid: 26353b0a1a2ca64498a4020aaf73be79, type: 2}
+    enemigoEstadoFalso: {fileID: 11400000, guid: 32eccc471c1ae6845ac44c2fafb05a70, type: 2}
+  accionesEnemigo:
+  - {fileID: 11400000, guid: 8a80626b91d836f41a1359c9c9fff811, type: 2}
+  - {fileID: 11400000, guid: 879362e0ba6807345ba659a072dcbf8b, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d103095b23588f4ab7061795a1aab94, type: 3}
+  m_Name: NPC15
+  m_EditorClassIdentifier: 
+  nombre: Mediuren
+  icono: {fileID: 0}
+  tieneInteraccionImportante: 0
+  interaccionImportante: 0
+  principioConversacion: "Los h\xE9roes no eran de este mundo, y las armas que a\xFAn
+    existen tampoco.\n"
+  finalConversacion: "Los h\xE9roes fueron a investigar, y ya sabes el resto."
+  conversacion:
+  - conversacion: "Eran teletransportados aqu\xED cuando est\xE1bamos en peligro
+      y se iban cuando la amenaza terminaba."
+  - conversacion: "Sin embargo, los \xFAltimos h\xE9roes decidieron quedarse. Nos
+      aportaron mucho y nos hicieron dependientes de ellos."
+  - conversacion: "Adem\xE1s, eliminaron a todos los usuarios de magia y a aquellos
+      con alg\xFAn poder."
+  - conversacion: "Despu\xE9s de eso, comenz\xF3 la crisis de los slimes, criaturas
+      que derrotaban a monstruos mucho m\xE1s poderosos que ellos. "

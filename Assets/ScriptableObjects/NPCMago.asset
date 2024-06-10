@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d103095b23588f4ab7061795a1aab94, type: 3}
+  m_Name: NPCMago
+  m_EditorClassIdentifier: 
+  nombre: Velverium
+  icono: {fileID: 0}
+  tieneInteraccionImportante: 0
+  interaccionImportante: 0
+  principioConversacion: "Sab\xEDa que este momento llegar\xEDa, lo sab\xEDa perfectamente,
+    pero no pod\xEDa quedarme quieto. Tus padres mataron a toda mi familia y amigos."
+  finalConversacion: "En serio un h\xE9roe, el descendiente de esos bastardos, ser\xEDa
+    capaz de sacrificarse por la humanidad?"
+  conversacion:
+  - conversacion: "No puedo quedarme con los brazos cruzados. Nos tacharon de villanos,
+      dijeron que el mal ven\xEDa de nosotros, que ser\xEDamos los que destruir\xEDamos
+      el mundo. Aunque ellos tambi\xE9n ten\xEDan habilidades parecidas a las nuestras,
+      decidieron echarnos todas las culpas y matarnos."
+  - conversacion: "Ahora, ya no puedo moverme. Di mi vida por la destrucci\xF3n de
+      la humanidad. El plan va bien, \xBFte has dado cuenta? Estos slimes son inmortales,
+      igual que t\xFA. "
+  - conversacion: "Por mucho que los mates, cada vez que vas sales del mundo, vuelven
+      a aparecer; est\xE1n vinculados contigo."
+  - conversacion: "S\xE9 que esas personas no son responsables de las muertes de
+      mis familiares, pero se rieron, se burlaron y apoyaron a los h\xE9roes."
+  - conversacion: "Por eso cre\xE9 una trampa mortal y los utilic\xE9 como drenaje
+      para los slimes. Soy su conductor. Estoy cansado de vivir. "
+  - conversacion: 'Quiero reunirme con mi familia, pero el pacto que hice no me permite
+      quitarme la vida. '
+  - conversacion: " Adem\xE1s, los slimes son muy lentos. Llevo una eternidad con
+      esta destrucci\xF3n, sin saber nada m\xE1s y solo pudiendo recordar a mi familia.
+      Lo \xFAnico que me mantiene cuerdo es mi odio hacia esos malditos bastardos
+      de los h\xE9roes.\r\n"
+  - conversacion: "M\xE1tame, pero si quieres parar a los slimes, t\xFA tambi\xE9n
+      debes morir; est\xE1n vinculados a ti. "
+  - conversacion: "Elegir\xE1s salvar a la humanidad, pero sabiendo c\xF3mo es realmente
+      el ego\xEDsmo de los h\xE9roes, \xBFlo har\xE1s? Si tomas la bola que tengo
+      detr\xE1s, moriremos y los slimes desaparecer\xE1n. "
+  - conversacion: " Nadie sabr\xE1 lo que hemos hecho, ya que el mundo destruir\xE1
+      nuestra historia."

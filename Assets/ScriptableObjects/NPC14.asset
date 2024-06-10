@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d103095b23588f4ab7061795a1aab94, type: 3}
+  m_Name: NPC14
+  m_EditorClassIdentifier: 
+  nombre: Manun
+  icono: {fileID: 0}
+  tieneInteraccionImportante: 0
+  interaccionImportante: 0
+  principioConversacion: "Hab\xEDa una amenaza anterior a la aparici\xF3n de los
+    h\xE9roes: \n"
+  finalConversacion: "un mago muy poderoso que lo perdi\xF3 todo. Quer\xEDa arrasar
+    la humanidad, pero no sabemos qu\xE9 sucedi\xF3 con \xE9l.\r"
+  conversacion: []

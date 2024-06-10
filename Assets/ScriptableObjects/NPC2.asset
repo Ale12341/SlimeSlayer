@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d103095b23588f4ab7061795a1aab94, type: 3}
+  m_Name: NPC2
+  m_EditorClassIdentifier: 
+  nombre: Galen
+  icono: {fileID: 0}
+  tieneInteraccionImportante: 0
+  interaccionImportante: 0
+  principioConversacion: "\xA1Ey, qu\xEDtate esa ropa ahora mismo! Te est\xE1s burlando
+    de nuestros h\xE9roes. "
+  finalConversacion: "Pero ten cuidado, si me entero de que te burlas de los h\xE9roes,
+    te dar\xE9 una paliza."
+  conversacion:
+  - conversacion: "Aunque desaparecieron hace tiempo, siempre nos ayudaban. \xBFNo
+      recuerdas nada? "
+  - conversacion: "Entonces apareciste aqu\xED con esos ropajes. Deber\xEDas hablar
+      con la cantinera. "

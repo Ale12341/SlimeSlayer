@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75975ca8c85892e43b55b24d8f0c15ab, type: 3}
+  m_Name: ItemPocionRVida
+  m_EditorClassIdentifier: 
+  ID: PocionVida
+  Nombre: Pocion de Vida
+  Icono: {fileID: 21300000, guid: ec78eca51836a4847b0fc5ea4181ae17, type: 3}
+  Descripcion: Esta es una pocion del norte de Nosferum que restaura 15 de vida.
+  tipo: 1
+  SePuedeConsumir: 1
+  SePuedeUsar: 0
+  SePuedeEquipar: 0
+  SePuedeAcumular: 1
+  MaxAcumulacion: 69
+  Cantidad: 12
+  RestauracionVida: 15

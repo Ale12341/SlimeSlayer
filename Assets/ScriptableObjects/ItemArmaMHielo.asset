@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74678ef7da86a704a8def39325ef2dd9, type: 3}
+  m_Name: ItemArmaMHielo
+  m_EditorClassIdentifier: 
+  ID: ArmaMHielo
+  Nombre: Magia de Hielo
+  Icono: {fileID: 21300000, guid: 83312e344790cbb47b70902bffb9f611, type: 3}
+  Descripcion: Pergamino de la era eiden, desbloquea el portal del hielo
+  tipo: 0
+  SePuedeConsumir: 0
+  SePuedeUsar: 0
+  SePuedeEquipar: 1
+  SePuedeAcumular: 0
+  MaxAcumulacion: 1
+  Cantidad: 0
+  arma: {fileID: 11400000, guid: 9435042334d4f8d4ba03af4d8269eb95, type: 2}
